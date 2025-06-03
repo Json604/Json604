@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kartikey</h1>
-<h3 align="center">I'm a frontend developer who enjoys turning ideas into real apps. I’ve built and led projects like Fortura, TreeScout, and Lock Your Money using React Native and ReactJS. I care about clean UI, smooth UX, and learning by doing.</h3>
+<h3 align="center">I'm a frontend developer who enjoys turning ideas into real apps. I care about clean UI, smooth UX, and learning by doing.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=json604&label=Profile%20views&color=0e75b6&style=flat" alt="json604" /> </p>
 
