@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=json604&label=Profile%20views&color=0e75b6&style=flat" alt="json604" /> </p>
 
-- 🔭 I’m currently working on **Lock Your Money**
-
-- 🌱 I’m currently learning **TailwindCss, Next.js, Backend**
+- 🔭 I’m currently working on **Raptor(raptor.support)**
 
 - 💬 Ask me about **anything**
 
